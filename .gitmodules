@@ -1,0 +1,3 @@
+[submodule "lib/pry"]
+	path = lib/pry
+	url = git@github.com:thiyagarajan/pry.git
